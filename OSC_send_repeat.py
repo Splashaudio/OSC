@@ -1,4 +1,8 @@
-# https://osc4py3.readthedocs.io/en/latest/userdoc.html#examples
+
+#Modified from https://osc4py3.readthedocs.io/en/latest/userdoc.html#examples
+
+#sends OSC message to BitFocus Companion
+
 # Import needed modules from osc4py3
 from osc4py3.as_eventloop import *
 from osc4py3 import oscbuildparse
